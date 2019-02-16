@@ -1,4 +1,4 @@
-import { DemoPromise } from '../promise_exception';
+import { DemoPromise } from '../promise_exception.final';
 
 describe('Order of resolving', function () {
     it('resolves before then()', function (done) {
